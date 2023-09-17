@@ -1,0 +1,2 @@
+This folder is for storing training files. NOTE: Files can be anywhere in your drive
+FILE NOTES: .wav, 10-50 seconds

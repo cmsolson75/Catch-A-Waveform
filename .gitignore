@@ -1,5 +1,4 @@
 outputs
-inputs
 env/
 *.egg-info/
 .vscode/
